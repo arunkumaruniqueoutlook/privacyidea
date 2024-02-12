@@ -22,8 +22,8 @@ beautifulsoup4[lxml]==4.12.2
     #   privacyIDEA (setup.py)
 cachetools==5.3.2
     # via google-auth
-cbor2==5.4.6; python_version == "3.7"
-cbor2==5.5.0; python_version > "3.7"
+cbor2==5.6.0; python_version == "3.7"
+cbor2==5.6.0; python_version > "3.7"
     # via privacyIDEA (setup.py)
 certifi==2023.7.22
     # via requests
