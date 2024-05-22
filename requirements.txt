@@ -124,7 +124,7 @@ pydash==7.0.6
     # via privacyIDEA (setup.py)
 pyjwt==2.8.0
     # via privacyIDEA (setup.py)
-pymysql==1.1.0
+pymysql==1.1.1
     # via privacyIDEA (setup.py)
 pyopenssl==23.3.0
     # via privacyIDEA (setup.py)
