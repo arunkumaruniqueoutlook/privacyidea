@@ -182,6 +182,6 @@ zipp==3.17.0 ; python_version == "3.8"
     #   importlib-resources
 
 # The following packages are considered to be unsafe in a requirements file:
-setuptools==68.0.0 ; python_version == "3.7"
-setuptools==68.2.2 ; python_version > "3.7"
+setuptools==70.0.0 ; python_version == "3.7"
+setuptools==70.0.0 ; python_version > "3.7"
     # via flask-versioned
