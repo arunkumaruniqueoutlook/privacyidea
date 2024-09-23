@@ -36,7 +36,7 @@ charset-normalizer==3.3.1
     # via requests
 click==7.1.2
     # via flask
-configobj==5.0.8
+configobj==5.0.9
     # via privacyIDEA (setup.py)
 croniter==2.0.1
     # via privacyIDEA (setup.py)
