@@ -109,7 +109,7 @@ passlib[bcrypt]==1.7.4
     # via
     #   passlib
     #   privacyIDEA (setup.py)
-protobuf==4.24.4
+protobuf==4.25.8
     # via privacyIDEA (setup.py)
 pyasn1==0.5.0
     # via
@@ -171,7 +171,7 @@ typing-extensions==4.8.0 ; python_version > "3.7"
     # via
     #   alembic
     #   pydash
-urllib3==2.0.7
+urllib3==2.5.0
     # via requests
 werkzeug==1.0.1
     # via flask
