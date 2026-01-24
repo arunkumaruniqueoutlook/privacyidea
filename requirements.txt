@@ -111,7 +111,7 @@ passlib[bcrypt]==1.7.4
     #   privacyIDEA (setup.py)
 protobuf==4.24.4
     # via privacyIDEA (setup.py)
-pyasn1==0.5.0
+pyasn1==0.6.2
     # via
     #   ldap3
     #   pyasn1-modules
