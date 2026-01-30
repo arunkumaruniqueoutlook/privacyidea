@@ -109,7 +109,7 @@ passlib[bcrypt]==1.7.4
     # via
     #   passlib
     #   privacyIDEA (setup.py)
-protobuf==4.24.4
+protobuf==6.33.5
     # via privacyIDEA (setup.py)
 pyasn1==0.5.0
     # via
